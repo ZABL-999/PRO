@@ -13,7 +13,7 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install bs4 httpx`
-- `rm -rf OGGY`
+- `rm -rf PRO`
 - `git clone --depth=1 https://github.com/ZABL-999/PRO.git`
 - `cd PRO`
 - `python PRO.py`
